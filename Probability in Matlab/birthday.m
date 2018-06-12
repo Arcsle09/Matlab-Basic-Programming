@@ -1,3 +1,4 @@
+#Birthday Paradox
 function [ A ] = birthday( n )
 
 A = ones(n, 1);
